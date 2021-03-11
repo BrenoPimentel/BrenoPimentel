@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá! meu nome é Breno Pimentel! :wink:
 
-<!--
-**BrenoPimentel/BrenoPimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+    <li>Estudando programação para engenharia elétrica</li>
+    <li>Estudando diariamente para melhorar cada vez mais minhas habilidades</li>
+    <li>Aberto para novas propostas de trabalho</li>
+</ul>
 
-Here are some ideas to get you started:
+## Minhas redes! :globe_with_meridians:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Twitter](https://twitter.com/BreninBreb) :point_left:
+
+## Minhas Estatísticas e Linguages :man_technologist:
+
+<p>
+  <a href="https://github.com/BrenoPimentel%22%3E
+    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=BrenoPimentel&show_icons=true&theme=omni" alt="BrenoPimentel | Stats" />
+    <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoPimentel&langs_count=6&theme=omni&layout=compact" alt="BrenoPimentel | Langs" />
+ </a>
+</p>
