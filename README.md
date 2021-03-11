@@ -1,4 +1,4 @@
-# Olá! meu nome é Breno Pimentel! :wink:
+# Olá! meu nome é Breno Pimentel! 😎:
 
 <ul>
     <li>Estudando programação para engenharia elétrica</li>
@@ -13,7 +13,7 @@
 ## Minhas Estatísticas e Linguages :man_technologist:
 
 <p>
-  <a href="https://github.com/BrenoPimentel%22%3E
+  <a href="https://github.com/BrenoPimentel%22%3E">
     <img width="450px" src="https://github-readme-stats.vercel.app/api?username=BrenoPimentel&show_icons=true&theme=omni" alt="BrenoPimentel | Stats" />
     <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoPimentel&langs_count=6&theme=omni&layout=compact" alt="BrenoPimentel | Langs" />
  </a>
