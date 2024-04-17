@@ -1,4 +1,4 @@
-# Olá! meu nome é Breno Pimentel! 😎:
+# Olá! meu nome é Breno Pimentel!:
 
 <ul>
     <li>Cursando Engenharia Elétrica na Federal de Itajubá</li>
@@ -6,10 +6,6 @@
     <li>Estudando diariamente para melhorar cada vez mais minhas habilidades</li>
     <li>Aberto para novas propostas de trabalho</li>
 </ul>
-
-## Minhas redes! :globe_with_meridians:
-
-[Twitter](https://twitter.com/BreninBreb) :point_left:
 
 ## Minhas Estatísticas e Linguages :man_technologist:
 
