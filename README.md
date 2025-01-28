@@ -1,4 +1,4 @@
-# Olá! meu nome é Breno Pimentel!:
+# Breno Pimentel!:
 
 <ul>
     <li>Cursando Engenharia Elétrica na Federal de Itajubá</li>
